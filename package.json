@@ -1,0 +1,19 @@
+{
+  "name": "cookie-notice",
+  "version": "1.0.0",
+  "description": "Cookie based notifications",
+  "main": "dist cookie-notice.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dermidgen/cookie-notice.git"
+  },
+  "author": "Danny Graham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dermidgen/cookie-notice/issues"
+  },
+  "homepage": "https://github.com/dermidgen/cookie-notice"
+}
